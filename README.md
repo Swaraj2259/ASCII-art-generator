@@ -35,7 +35,7 @@ A simple GUI-based ASCII Art Generator built using Python and Tkinter. This tool
 ## 🎨 Screenshots  
 
  🖥️ UI Preview  
-![UI Preview]()  
+![UI Preview](screeshot/ASCII_ss.png)  
 
  🔤 ASCII Output Example  
 ![ASCII Output](screenshots/ascii_output.png) 
